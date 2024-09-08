@@ -16,12 +16,9 @@ Power Plan Manager is a simple GUI application built with Python and Tkinter tha
     cd power-plan-manager
     ```
 
-2. Ensure you have the required Python packages:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
 ## Usage
+
+Run the app as an executable from dist folder or run the python script using the following steps:
 
 1. Run the application:
     ```sh
